@@ -25,6 +25,7 @@ date: 2025-06-07
 - [ ] [Silence Between Songs - Madison Beer](https://vinylpladen.dk/vinyl/madison-beer/silence-between-songs-LP)
 - [ ] [I Lay Down My Life For You - JPEGMAFIA](https://vinylpladen.dk/vinyl/jpegmafia/i-lay-down-my-life-for-you-LP)
 - [ ] [Radical Optimism - Dua Lipa](https://vinylpladen.dk/vinyl/dua-lipa/radical-optimism-LP)
+- [ ] [Fancy That - Pinkpantheress](https://vinylpladen.dk/vinyl/pinkpantheress/fancy-that-LP)
 
 ## Ejer
 
