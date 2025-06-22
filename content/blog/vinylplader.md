@@ -26,6 +26,8 @@ date: 2025-06-07
 - [ ] [I Lay Down My Life For You - JPEGMAFIA](https://vinylpladen.dk/vinyl/jpegmafia/i-lay-down-my-life-for-you-LP)
 - [ ] [Radical Optimism - Dua Lipa](https://vinylpladen.dk/vinyl/dua-lipa/radical-optimism-LP)
 - [ ] [Fancy That - Pinkpantheress](https://vinylpladen.dk/vinyl/pinkpantheress/fancy-that-LP)
+- [ ] [Princess of Power - Marina](https://vinylpladen.dk/vinyl/marina/princess-of-power-LP)
+- [ ] [Electra Heart - Marina And The Diamonds](https://vinylpladen.dk/vinyl/marina-and-the-diamonds/electra-heart-LP)
 
 ## Ejer
 
