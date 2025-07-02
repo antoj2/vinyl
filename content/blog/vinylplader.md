@@ -28,6 +28,7 @@ date: 2025-06-07
 - [ ] [Fancy That - Pinkpantheress](https://vinylpladen.dk/vinyl/pinkpantheress/fancy-that-LP)
 - [ ] [Princess of Power - Marina](https://vinylpladen.dk/vinyl/marina/princess-of-power-LP)
 - [ ] [Electra Heart - Marina And The Diamonds](https://vinylpladen.dk/vinyl/marina-and-the-diamonds/electra-heart-LP)
+- [ ] [Heaven Knows - PinkPantheress](https://vinylpladen.dk/vinyl/pink-pantheress/heaven-knows-LP)
 
 ## Ejer
 
