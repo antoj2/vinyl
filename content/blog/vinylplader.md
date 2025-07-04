@@ -29,6 +29,7 @@ date: 2025-06-07
 - [ ] [Princess of Power - Marina](https://vinylpladen.dk/vinyl/marina/princess-of-power-LP)
 - [ ] [Electra Heart - Marina And The Diamonds](https://vinylpladen.dk/vinyl/marina-and-the-diamonds/electra-heart-LP)
 - [ ] [Heaven Knows - PinkPantheress](https://vinylpladen.dk/vinyl/pink-pantheress/heaven-knows-LP)
+- [ ] [Bite Me - Reneé Rapp](https://vinylpladen.dk/vinyl/renee-rapp/bite-me-LP-1)[^4]
 
 ## Ejer
 
@@ -53,3 +54,4 @@ date: 2025-06-07
 [^1]: Fås også betydeligt billigere på [Moby Disc](http://moby-disc.dk/guts-spilled-2lp-splatter-vinyl.html)
 [^2]: Plade ikke tilgængelig endnu
 [^3]: Forudbestilling (afsendes 25. juli)
+[^4]: Forudbestilling (udgives 1. august)
