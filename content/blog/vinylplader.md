@@ -30,6 +30,7 @@ date: 2025-06-07
 - [ ] [Electra Heart - Marina And The Diamonds](https://vinylpladen.dk/vinyl/marina-and-the-diamonds/electra-heart-LP)
 - [ ] [Heaven Knows - PinkPantheress](https://vinylpladen.dk/vinyl/pink-pantheress/heaven-knows-LP)
 - [ ] [Bite Me - Reneé Rapp](https://vinylpladen.dk/vinyl/renee-rapp/bite-me-LP-1)[^4]
+- [ ] [Virgin - Lorde](https://vinylpladen.dk/vinyl/lorde/virgin-LP)
 
 ## Ejer
 
