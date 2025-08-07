@@ -20,7 +20,7 @@ date: 2025-06-07
 - [ ] [Short n’ Sweet (Deluxe) - Sabrina Carpenter](https://vinylpladen.dk/vinyl/sabrina-carpenter/short-n-sweet-LP-2)
 - [ ] [The Crux - Djo](https://vinylpladen.dk/vinyl/djo/the-crux-LP)
 - [ ] [Hit Me Hard And Soft - Billie Eilish](https://vinylpladen.dk/vinyl/billie-eilish/hit-me-hard-and-soft-LP)
-- [ ] [Voyeur - Alessi Rose](https://shop.alessirosemusic.com/products/voyeur-opaque-pink-vinyl-store-exclusive)[^3]
+- [ ] [Voyeur - Alessi Rose](https://vinylpladen.dk/vinyl/alessi-rose/voyeur-LP)
 - [ ] [Emails I Can't Send - Sabrina Carpenter](https://vinylpladen.dk/vinyl/sabrina-carpenter/emails-i-cant-send-LP)
 - [ ] [Silence Between Songs - Madison Beer](https://vinylpladen.dk/vinyl/madison-beer/silence-between-songs-LP)
 - [ ] [I Lay Down My Life For You - JPEGMAFIA](https://vinylpladen.dk/vinyl/jpegmafia/i-lay-down-my-life-for-you-LP)
@@ -29,7 +29,7 @@ date: 2025-06-07
 - [ ] [Princess of Power - Marina](https://vinylpladen.dk/vinyl/marina/princess-of-power-LP)
 - [ ] [Electra Heart - Marina And The Diamonds](https://vinylpladen.dk/vinyl/marina-and-the-diamonds/electra-heart-LP)
 - [ ] [Heaven Knows - PinkPantheress](https://vinylpladen.dk/vinyl/pink-pantheress/heaven-knows-LP)
-- [ ] [Bite Me - Reneé Rapp](https://vinylpladen.dk/vinyl/renee-rapp/bite-me-LP-1)[^4]
+- [ ] [Bite Me - Reneé Rapp](https://vinylpladen.dk/vinyl/renee-rapp/bite-me-LP-1)
 - [ ] [Virgin - Lorde](https://vinylpladen.dk/vinyl/lorde/virgin-LP)
 
 ## Ejer
@@ -54,5 +54,3 @@ date: 2025-06-07
 ## Fodnoter
 [^1]: Fås også betydeligt billigere på [Moby Disc](http://moby-disc.dk/guts-spilled-2lp-splatter-vinyl.html)
 [^2]: Plade ikke tilgængelig endnu
-[^3]: Forudbestilling (afsendes 25. juli)
-[^4]: Forudbestilling (udgives 1. august)
