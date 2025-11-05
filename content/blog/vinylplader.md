@@ -1,6 +1,6 @@
 ---
 title: Vinylplader
-date: 2025-06-07
+date: 2025-11-14
 ---
 ## Ønsker
 - [ ] [Big In The Suburbs - Welly](https://worldwidewelly.com/products/big-in-the-suburbs-black-vinyl-lp)
@@ -15,7 +15,7 @@ date: 2025-06-07
 - [ ] [Bloom - Troye Sivan](https://vinylpladen.dk/vinyl/troye-sivan/bloom-LP)
 - [ ] [Blue Neighbourhood - Troye Sivan](https://vinylpladen.dk/vinyl/troye-sivan/blue-neighbourhood-LP)
 - [ ] [GUTS (spilled) - Olivia Rodrigo](https://vinylpladen.dk/vinyl/olivia-rodrigo/guts-LP-2)[^1]
-- [ ] Chromakopia - Tyler, The Creator[^2]
+- [ ] [Chromakopia - Tyler, The Creator](https://vinylpladen.dk/vinyl/tyler-the-creator/chromakopia-LP)
 - [ ] [So Close To What - Tate Mcrae](https://vinylpladen.dk/vinyl/tate-mcrae/so-close-to-what-LP)
 - [ ] [Short n’ Sweet (Deluxe) - Sabrina Carpenter](https://vinylpladen.dk/vinyl/sabrina-carpenter/short-n-sweet-LP-2)
 - [ ] [The Crux - Djo](https://vinylpladen.dk/vinyl/djo/the-crux-LP)
@@ -54,4 +54,3 @@ date: 2025-06-07
 
 ## Fodnoter
 [^1]: Fås også betydeligt billigere på [Moby Disc](http://moby-disc.dk/guts-spilled-2lp-splatter-vinyl.html)
-[^2]: Plade ikke tilgængelig endnu
